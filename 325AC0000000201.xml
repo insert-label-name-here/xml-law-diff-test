@@ -6596,7 +6596,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">禁錮以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -7122,7 +7122,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">禁錮以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -7699,7 +7699,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">禁錮以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -8264,7 +8264,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">禁錮以上の刑に処せられ、又は建築基準法令の規定若しくは建築士法の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又は建築基準法令の規定若しくは建築士法の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -8545,7 +8545,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">禁錮以上の刑に処せられ、その執行を終わるまで又はその執行を受けることがなくなるまでの者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、その執行を終わるまで又はその執行を受けることがなくなるまでの者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -9694,7 +9694,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三年以下の懲役又は三百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -9739,7 +9739,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -9850,7 +9850,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七十七条の十五第二項（第七十七条の十七の二第二項において準用する場合を含む。）、第七十七条の三十五の十九第二項又は第七十七条の五十一第二項（第七十七条の五十六第二項において準用する場合を含む。）の規定による建築基準適合判定資格者検定事務、構造計算適合判定資格者検定事務又は構造計算適合性判定、認定等若しくは性能評価の業務の停止の命令に違反したときは、その違反行為をした指定建築基準適合判定資格者検定機関若しくは指定構造計算適合判定資格者検定機関の役員若しくは職員（建築基準適合判定資格者検定委員及び構造計算適合判定資格者検定委員を含む。）又は指定構造計算適合性判定機関、指定認定機関若しくは指定性能評価機関（いずれもその者が法人である場合にあつては、その役員）若しくはその職員（構造計算適合性判定員、認定員及び評価員を含む。）（第百四条において「指定建築基準適合判定資格者検定機関等の役員等」という。）は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七十七条の十五第二項（第七十七条の十七の二第二項において準用する場合を含む。）、第七十七条の三十五の十九第二項又は第七十七条の五十一第二項（第七十七条の五十六第二項において準用する場合を含む。）の規定による建築基準適合判定資格者検定事務、構造計算適合判定資格者検定事務又は構造計算適合性判定、認定等若しくは性能評価の業務の停止の命令に違反したときは、その違反行為をした指定建築基準適合判定資格者検定機関若しくは指定構造計算適合判定資格者検定機関の役員若しくは職員（建築基準適合判定資格者検定委員及び構造計算適合判定資格者検定委員を含む。）又は指定構造計算適合性判定機関、指定認定機関若しくは指定性能評価機関（いずれもその者が法人である場合にあつては、その役員）若しくはその職員（構造計算適合性判定員、認定員及び評価員を含む。）（第百四条において「指定建築基準適合判定資格者検定機関等の役員等」という。）は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -13636,7 +13636,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable>
+    <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　耐火建築物等としなければならない特殊建築物（第六条、第二十一条、第二十七条、第二十八条、第三十五条―第三十五条の三、第九十条の三関係）</RelatedArticleNum>
       <TableStruct>
@@ -13780,7 +13780,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable>
+    <AppdxTable Num="2">
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>　用途地域等内の建築物の制限（第二十七条、第四十八条、第六十八条の三関係）</RelatedArticleNum>
       <TableStruct>
@@ -14086,7 +14086,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable>
+    <AppdxTable Num="3">
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>　前面道路との関係についての建築物の各部分の高さの制限（第五十六条、第九十一条関係）</RelatedArticleNum>
       <TableStruct>
@@ -14333,7 +14333,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable>
+    <AppdxTable Num="4">
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>　日影による中高層の建築物の制限（第五十六条、第五十六条の二関係）</RelatedArticleNum>
       <TableStruct>
